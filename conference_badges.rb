@@ -2,4 +2,4 @@ def badge_maker(name)
   puts "Hello, my name is #{name}."
 end
 
-badge_namker("Arel")
+badge_maker("Arel")
